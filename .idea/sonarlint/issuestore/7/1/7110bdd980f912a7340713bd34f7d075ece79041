@@ -1,0 +1,6 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(îÍû8–ÖÎ®„/
+q
+java:S1450B"TRemove the "memo2" field and declare it as a local variable in the relevant methods.(…êÑ8¿ëÆ„/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÍû8…‚Ä®„/

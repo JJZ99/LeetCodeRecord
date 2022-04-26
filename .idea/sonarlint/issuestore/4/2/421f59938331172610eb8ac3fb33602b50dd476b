@@ -1,0 +1,21 @@
+
+l
+java:S17649"JCorrect one of the identical sub-expressions on both sides of operator "-"(çô¦Šøÿÿÿÿ8Ş¹æ†„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®Ëàùÿÿÿÿ8„¿˜‡„/
+K
+java:S21409")Use "java.util.Random.nextInt()" instead.(çô¦Šøÿÿÿÿ8Ş¹æ†„/
+F
+java:S21406")Use "java.util.Random.nextInt()" instead.(à›¢û8ø¶á†„/
+B
+java:S2116O"%Use "Arrays.toString(array)" instead.(¯æßº8‰€‡„/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈòÈÑ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®Ëàùÿÿÿÿ8„¿˜‡„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ùôûÿÿÿÿ8„¿˜‡„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®Ëàùÿÿÿÿ8„¿˜‡„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±óÌ ÿÿÿÿÿ8„¿˜‡„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±óÌ ÿÿÿÿÿ8„¿˜‡„/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øâ‚Š
+K
+java:S21409")Use "java.util.Random.nextInt()" instead.(çô¦Šøÿÿÿÿ8Ş¹æ†„/
+G
+java:S2116N"%Use "Arrays.toString(array)" instead.(ıŒøíıÿÿÿÿ8‰€‡„/

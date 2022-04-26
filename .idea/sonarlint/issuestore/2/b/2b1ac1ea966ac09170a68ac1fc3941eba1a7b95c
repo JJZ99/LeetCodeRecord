@@ -1,0 +1,15 @@
+
+X
+java:S1128";Remove this unused import 'sun.reflect.generics.tree.Tree'.(ºğ“´8Ùâ„‡/
+]	java:S125:"<This block of commented-out lines of code should be removed.(¿ôØ¤úÿÿÿÿ8Í¨›‡/
+E
+java:S1481Y")Remove this unused "flag" local variable.(ŒÖı$8¾°Û‡/
+y	java:S127d"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ8¾°Û‡/
+o	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áî´Ãüÿÿÿÿ8í‹·‡/
+V
+java:S4973Q"9Use the "equals" method if value comparison was intended.(õşŠê8µä—‡/
+L
+java:S1128"/Remove this unused import 'sun.java2d.Surface'.(”ÓÌ–8øĞŞ‡/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(”ÓÌ–8øĞŞ‡/
+]	java:S125v"<This block of commented-out lines of code should be removed.(äğ’ßøÿÿÿÿ8×¯Ã‡/

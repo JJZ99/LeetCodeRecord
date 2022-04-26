@@ -1,0 +1,8 @@
+
+–
+java:S1319"tThe type of the "intervals" object should be an interface such as "List" rather than the implementation "ArrayList".(šäÌ—ýÿÿÿÿ8Š°ßî„/
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šäÌ—ýÿÿÿÿ8Š°ßî„/
+E
+java:S1604"(Make this anonymous inner class a lambda(Û¬Šž8ÚœØñ„/
+s	java:S1270"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ëƒ©ñ„/

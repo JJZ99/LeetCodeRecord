@@ -1,0 +1,17 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "treeMap".(İÑşğ8íôÀÅ…/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(÷À½ß8ÑÜæ’ö.
+‡
+java:S1149""eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦“Œşÿÿÿÿ8ø£ÔÊ…/
+I
+java:S1481",Remove this unused "treeMap" local variable.(İÑşğ8íôÀÅ…/
+J
+java:S1481#"-Remove this unused "elements" local variable.(‡…İÎ8ø£ÔÊ…/
+Y
+java:S1854#"<Remove this useless assignment to local variable "elements".(‡…İÎ8ø£ÔÊ…/
+E
+java:S1604"(Make this anonymous inner class a lambda(İÑşğ8íôÀÅ…/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈòÈÑ8 ÔãÜö.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷À½ß

@@ -1,0 +1,21 @@
+
+Z
+java:S1155?">Use isEmpty() to check whether the collection is empty or not.(óéôE8¤¯›ñ‡/
+m
+java:S11495"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êå¿Ú8êËË‡/
+h
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8´†§Èˆ/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü·£×üÿÿÿÿ8¹‰¶É‡/
+`
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(¾¶£õùÿÿÿÿ8É“›Ë‡/
+z	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõþÿÿÿÿ8¤¯›ñ‡/
+V
+java:S4973n"9Use the "equals" method if value comparison was intended.(õþŠê8¤¯›ñ‡/
+o	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áî´Ãüÿÿÿÿ8¤¯›ñ‡/
+t
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÿð–Áûÿÿÿÿ8¤¯›ñ‡/
+`
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(¾¶£õùÿÿÿÿ8¤¯›ñ‡/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð¨‰Ôúÿÿÿÿ
+r
+java:S11497"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÆÈ–Žÿÿÿÿÿ8¤¯›ñ‡/

@@ -1,0 +1,11 @@
+
+R
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8êİÅ‘‰/
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õùöš8úäòÂö.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÈ£Ì8»ÔãÜö.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8šİíˆ/
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“»ÒĞşÿÿÿÿ8ªÇ€Ãö.
+O
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8ÜÒå‘‰/
+X	java:S125F"<This block of commented-out lines of code should be removed.( Àƒ„8’Ö•Çş.

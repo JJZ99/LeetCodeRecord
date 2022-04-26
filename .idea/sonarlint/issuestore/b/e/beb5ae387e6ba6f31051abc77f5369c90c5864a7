@@ -1,0 +1,18 @@
+
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—™•8ÃÛò«„/
+b
+java:S1128"ERemove this unused import 'sun.text.resources.cldr.ii.FormatData_ii'.(ªœ¾8›å¾¬„/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»§â8Şîá«„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±óÌ ÿÿÿÿÿ8şŠæ«„/
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8Şîá«„/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ªœ¾8›å¾¬„/
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—™•8ÃÛò«„/
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ùôûÿÿÿÿ8Å”ê«„/
+F
+java:S1481E")Remove this unused "addd" local variable.(¨î Æ8¤™ÁÈ„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±óÌ ÿÿÿÿÿ8şŠæ«„/
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—™•8ÃÛò«„/
+U
+java:S1854E"8Remove this useless assignment to local variable "addd".(¨î Æ8¤™ÁÈ„/

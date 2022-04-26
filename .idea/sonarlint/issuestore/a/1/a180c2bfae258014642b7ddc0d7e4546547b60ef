@@ -1,0 +1,17 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡—Ò8„±áü/
+O
+java:S1199%"-Extract this nested code block into a method.(¯ÁÓ…üÿÿÿÿ8›áíü/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼øÆ«
+j
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¸Æü‰ûÿÿÿÿ8ß±»ş/
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(¸Æü‰ûÿÿÿÿ8ß±»ş/
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Ëçøü/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ùÚÀøÿÿÿÿ
+O
+java:S1199 "-Extract this nested code block into a method.(¯ÁÓ…üÿÿÿÿ8´ìü/
+Q
+java:S1066"/Merge this if statement with the enclosing one.(¸Æü‰ûÿÿÿÿ8›Ï¼ş/

@@ -1,0 +1,13 @@
+
+g
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(©Æ÷§ıÿÿÿÿ8Ëî“Šˆ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ƒú‰
+P
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8˜³ÿ‰ˆ/
+W
+java:S4973"9Use the "equals" method if value comparison was intended.(õşŠê8Ôß×‹ˆ/
+b
+java:S2259’"DA "NullPointerException" could be thrown; "parent" is nullable here.(–À¸¹8Ôß×‹ˆ/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8óõœŠˆ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò¯ÕÏıÿÿÿÿ

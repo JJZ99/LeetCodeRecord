@@ -1,0 +1,18 @@
+
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÙ›±úÿÿÿÿ8ƒÃùõ„/
+L
+java:S37401"/Provide the parametrized type for this generic.(ĞÁ´ª8Å‘Òö„/
+Q
+java:S10660"/Merge this if statement with the enclosing one.(ãÓÎßûÿÿÿÿ8ëöØö„/
+L
+java:S1481S"*Remove this unused "deque" local variable.(­¿Ššÿÿÿÿÿ8˜¼’Œ‰/
+Q
+java:S3740S"/Provide the parametrized type for this generic.(­¿Ššÿÿÿÿÿ8˜¼’Œ‰/
+Y
+java:S1128"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8Ñ¨­‹‰/
+[
+java:S1854S"9Remove this useless assignment to local variable "deque".(­¿Ššÿÿÿÿÿ8˜¼’Œ‰/
+b
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8Ñ¨­‹‰/
+e
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8î÷è¸†/

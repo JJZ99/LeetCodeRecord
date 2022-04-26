@@ -1,0 +1,25 @@
+
+u	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(ŸğÑµ8¼¬ù¦‚/
+C
+java:S1168="&Return an empty array instead of null.(¥¹ï8ÙÌ¦‚/
+K
+java:S2140:")Use "java.util.Random.nextInt()" instead.(©à¥‘øÿÿÿÿ8™“¦§‚/
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(»”›Ù8ÂÌø¦‚/
+…
+java:S4165h"cRemove this useless assignment; "chars" already holds the assigned value along all execution paths.(ûàã×üÿÿÿÿ8’Ï¦§‚/
+8
+java:S3626("Remove this redundant jump.(ÉŠ©ƒ8ÂÌø¦‚/
+8
+java:S3626L"Remove this redundant jump.(ÉŠ©ƒ8¼¬ù¦‚/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î»²Æşÿÿÿÿ8±¼ ¦‚/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àµ’ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ƒú‰
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°…‹¸8±¼ ¦‚/
+f
+java:S2583<"DChange this condition so that it does not always evaluate to "false"(Å¸ç½øÿÿÿÿ8’Ï¦§‚/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÂ‡¿8±¼ ¦‚/
+K
+java:S2140A")Use "java.util.Random.nextInt()" instead.(´ºÿŒÿÿÿÿÿ8Â¸â¦‚/

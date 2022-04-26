@@ -1,0 +1,19 @@
+
+C
+java:S2129e"!Remove this "Integer" constructor(¸™Çşÿÿÿÿ8­‹ƒû.
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç Øışÿÿÿÿ8º¢®‚û.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ÉÄ“²‡/
+X	java:S125n"<This block of commented-out lines of code should be removed.(µá–¼8šœ›‚û.
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆˆ8ä•Å®„/
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8ÉÄ“²‡/
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´»•8¯Å®‚û.
+Q
+java:S1874e"/Remove this use of "Integer"; it is deprecated.(¸™Çşÿÿÿÿ8­‹ƒû.
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌËìÌøÿÿÿÿ8Ğ©‡‰/
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç Øışÿÿÿÿ8º¢®‚û.
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌËìÌøÿÿÿÿ8Ğ©‡‰/
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´»•8¯Å®‚û.
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8ÉÄ“²‡/

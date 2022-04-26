@@ -1,0 +1,8 @@
+
+E
+java:S1172"(Remove this unused method parameter "N".(ª‹ªÖ8ö¹ù‘ˆ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¨ª„úÿÿÿÿ8ú›¾ˆ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‹ªÖ8Ï§ç‘ˆ/
+V
+java:S3400"9Remove this method and declare a constant for this value.(Úåö8ö¹ù‘ˆ/
+X	java:S125%"<This block of commented-out lines of code should be removed.(²êèç8Öµú‘ˆ/

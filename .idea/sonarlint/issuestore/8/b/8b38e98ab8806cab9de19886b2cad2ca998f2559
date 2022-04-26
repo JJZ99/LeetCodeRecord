@@ -1,0 +1,31 @@
+
+h
+java:S1764‚"JCorrect one of the identical sub-expressions on both sides of operator "-"(¨Óş8í¯éäş.
+G
+java:S2140‚")Use "java.util.Random.nextInt()" instead.(¨Óş8í¯éäş.
+9
+java:S2386"Make this member "protected".(şt8¥ËÒäş.
+k
+java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(şt8¥ËÒäş.
+J
+java:S1172"(Remove this unused method parameter "m".(”†Œ¶ÿÿÿÿÿ8ó’ïâş.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–€¯Ë
+K
+java:S2140q")Use "java.util.Random.nextInt()" instead.(¹ú®üúÿÿÿÿ8şÿÄåş.
+L
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ñ³İËøÿÿÿÿ8üÙåş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÈ£Ì
+G
+java:S2140‚")Use "java.util.Random.nextInt()" instead.(¨Óş8í¯éäş.
+L
+java:S1128"/Remove this unused import 'sun.java2d.Surface'.(”ÓÌ–8­‰ªåş.
+V
+java:S2864!"4Iterate over the "entrySet" instead of the "keySet".(²Êä¼øÿÿÿÿ8ó’ïâş.
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(º¿°P8Ï¾Üåş.
+‡
+java:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(şt8¥ËÒäş.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(”ÓÌ–8­‰ªåş.
+E
+java:S1444")Make this "public static map" field final(şt8¥ËÒäş.

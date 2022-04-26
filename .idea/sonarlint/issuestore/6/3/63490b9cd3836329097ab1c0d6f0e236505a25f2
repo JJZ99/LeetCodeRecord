@@ -1,0 +1,13 @@
+
+}
+java:S41657"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(çª‰+8ş©èîÿ.
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(ó›™—8¹ıíîÿ.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8•¤Òîÿ.
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(çô¦Šøÿÿÿÿ8æÇºîÿ.
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "-"(çô¦Šøÿÿÿÿ8æÇºîÿ.
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(çô¦Šøÿÿÿÿ8æÇºîÿ.

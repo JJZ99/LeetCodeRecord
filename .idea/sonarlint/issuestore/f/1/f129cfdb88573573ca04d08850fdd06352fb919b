@@ -1,0 +1,19 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿ§ĞÉıÿÿÿÿ8‰ô†ó„/
+I
+java:S1481-"'Remove this unused "sd" local variable.(îÛçûÿÿÿÿ8ÃËõ„/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ßÆˆó„/
+K
+java:S14819")Remove this unused "real" local variable.(¡ùñ«ùÿÿÿÿ8§™ó„/
+Z
+java:S18549"8Remove this useless assignment to local variable "real".(¡ùñ«ùÿÿÿÿ8§™ó„/
+X
+java:S1854-"6Remove this useless assignment to local variable "sd".(îÛçûÿÿÿÿ8ÃËõ„/
+`
+java:S1128">Remove this unused import 'sun.java2d.pipe.SolidTextRenderer'.(ÿ§ĞÉıÿÿÿÿ8‰ô†ó„/
+Y
+java:S1854B"7Remove this useless assignment to local variable "ans".(€×€ ıÿÿÿÿ8°£ó„/
+J
+java:S1481B"(Remove this unused "ans" local variable.(€×€ ıÿÿÿÿ8°£ó„/

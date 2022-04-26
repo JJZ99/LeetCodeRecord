@@ -1,0 +1,11 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê³à£ùÿÿÿÿ8Àäöƒ/
+W
+java:S1128"5Remove this unused import 'sun.security.util.Length'.(Ê³à£ùÿÿÿÿ8Àäöƒ/
+A
+java:S1659"Declare "j" on a separate line.(¹ç‰ºüÿÿÿÿ8÷ùòûƒ/
+U
+java:S1128"8Remove this unused import 'java.lang.reflect.Parameter'.(ÚŠğö8×›…öƒ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÇ¬Ëşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈòÈÑ

@@ -1,0 +1,22 @@
+
+W	java:S125×"<This block of commented-out lines of code should be removed.(¶ê«šúÿÿÿÿ
+]
+java:S2259²"AA "NullPointerException" could be thrown; "end" is nullable here.(’¦©³üÿÿÿÿ
+D
+java:S2140x")Use "java.util.Random.nextInt()" instead.(ØÀ­øÿÿÿÿ
+D
+java:S2140|")Use "java.util.Random.nextInt()" instead.(‚íî„úÿÿÿÿ
+K
+java:S2140|")Use "java.util.Random.nextInt()" instead.(‚íî„úÿÿÿÿ8“²µŒÿ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÈ£Ì
+l
+java:S1764|"JCorrect one of the identical sub-expressions on both sides of operator "-"(‚íî„úÿÿÿÿ8“²µŒÿ.
+G
+java:S2140")Use "java.util.Random.nextInt()" instead.(¼Á¼€8ÖÍµŒÿ.
+m
+java:S2259Ù"V"NullPointerException" will be thrown when invoking method "checkLinkedListReverse()".(Äå»ó
+d	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µåèÏ
+h
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "-"(¼Á¼€8ÖÍµŒÿ.
+@
+java:S2140")Use "java.util.Random.nextInt()" instead.(¼Á¼€

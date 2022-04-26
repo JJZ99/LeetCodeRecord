@@ -1,0 +1,16 @@
+
+a
+java:S2259L"DA "NullPointerException" could be thrown; "parent" is nullable here.(Æ»Ö»8æ·ôÃû.
+Q
+java:S3740F"/Provide the parametrized type for this generic.(ã€î•ÿÿÿÿÿ8æ·ôÃû.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ò•Ïûÿÿÿÿ8¨ÿèÃû.
+o	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âñÈçûÿÿÿÿ8ø­ÖÄû.
+n
+java:S11045"QMake list2 a static final constant or non-public and provide accessors if needed.(âïØÚ8¤ÓÕÄû.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(È©ıò8¨ÿèÃû.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©Æ÷§ıÿÿÿÿ8¨ÿèÃû.
+j	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¯•³8æ·ôÃû.
+£
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âñÈçûÿÿÿÿ8ø­ÖÄû.

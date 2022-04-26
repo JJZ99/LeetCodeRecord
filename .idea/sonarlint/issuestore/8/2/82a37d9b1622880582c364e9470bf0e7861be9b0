@@ -1,0 +1,15 @@
+
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(§ĞÓš8¤ÕÎˆ/
+R
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8¤ÕÎˆ/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(àçÕô8¤ÕÎˆ/
+S
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8¤ÕÎˆ/
+k
+java:S1128"IRemove this unused import 'com.sun.org.apache.bcel.internal.generic.NEW'.(èú¨Óşÿÿÿÿ8¤ÕÎˆ/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‘¶şŸÿÿÿÿÿ8¤ÕÎˆ/
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(èú¨Óşÿÿÿÿ8¤ÕÎˆ/

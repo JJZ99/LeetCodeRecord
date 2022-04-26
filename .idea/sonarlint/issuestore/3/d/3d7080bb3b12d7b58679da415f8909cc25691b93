@@ -1,0 +1,38 @@
+
+k
+java:S1104
+"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ
+l
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÈ£Ì
+?
+java:S2140r")Use "java.util.Random.nextInt()" instead.(º¡¿‰
+?
+java:S2140`")Use "java.util.Random.nextInt()" instead.(º¡¿‰
+D
+java:S2140z")Use "java.util.Random.nextInt()" instead.(…¤şÍşÿÿÿÿ
+m
+java:S2259Ô"V"NullPointerException" will be thrown when invoking method "checkDoubleListReverse()".(‹ùœ„
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÉ·ß
+D
+java:S2140w")Use "java.util.Random.nextInt()" instead.(´¡ˆÿÿÿÿÿ
+?
+java:S2140e")Use "java.util.Random.nextInt()" instead.(ßšš¶
+k
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(‹£Ï¸ùÿÿÿÿ
+]
+java:S2259­"AA "NullPointerException" could be thrown; "end" is nullable here.(’¦©³üÿÿÿÿ
+r
+java:S2259Í"V"NullPointerException" will be thrown when invoking method "checkDoubleListReverse()".(¹Ş¹£ıÿÿÿÿ
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÉ·ß
+m
+java:S2259¿"V"NullPointerException" will be thrown when invoking method "checkLinkedListReverse()".(›öèÍ
+l
+java:S1104	"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+f
+java:S1104"PMake last a static final constant or non-public and provide accessors if needed.(ÔôŸ
+?
+java:S2140h")Use "java.util.Random.nextInt()" instead.(é‘å›
+r
+java:S2259Æ"V"NullPointerException" will be thrown when invoking method "checkLinkedListReverse()".(Š³ÓÍúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡œ´ª

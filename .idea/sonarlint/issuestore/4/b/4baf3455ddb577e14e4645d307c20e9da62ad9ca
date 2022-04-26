@@ -1,0 +1,8 @@
+
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8²Í¤ø.
+F
+java:S2140*")Use "java.util.Random.nextInt()" instead.(¬ÉÖï8ûğ£ø.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ƒú‰
+K
+java:S2140-")Use "java.util.Random.nextInt()" instead.(¦ü…òøÿÿÿÿ8ûğ£ø.

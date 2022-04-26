@@ -1,0 +1,15 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(È©ıò
+Z
+java:S2259l"DA "NullPointerException" could be thrown; "parent" is nullable here.(Æ»Ö»
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âˆøüÿÿÿÿ
+‡
+java:S13195"qThe type of the "nodes" object should be an interface such as "List" rather than the implementation "LinkedList".(–—×
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ü¢Üåşÿÿÿÿ
+J
+java:S3740J"/Provide the parametrized type for this generic.(œ¿»Äùÿÿÿÿ
+J
+java:S3740f"/Provide the parametrized type for this generic.(ã€î•ÿÿÿÿÿ
+c	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¯•³
